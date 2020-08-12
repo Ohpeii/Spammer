@@ -1,0 +1,4 @@
+requests
+easygui
+discord.py
+colorama
